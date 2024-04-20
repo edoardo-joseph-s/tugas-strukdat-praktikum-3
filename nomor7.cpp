@@ -47,7 +47,7 @@ int main() {
 
   cout << "\nDaftar lagu:\n";
   for (int i = 0; i < numSongs; i++) {
-    cout << "Lagu ke-" << i + 1 << "\n" << endl;
+    cout << "\nLagu ke-" << i + 1 << endl;
     cout << "--------------------------------" << endl;
     cout << "Penyanyi: " << songs[i].penyanyi << endl;
     cout << "Judul: " << songs[i].judul << endl;
