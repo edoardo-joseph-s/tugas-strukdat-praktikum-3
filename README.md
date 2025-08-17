@@ -25,16 +25,6 @@ Kumpulan program sederhana dalam bahasa C dan C++ untuk latihan dasar struktur d
 7. **sistem-pencatatan-nilai-mahasiswa.cpp**
    - Program pencatatan nilai mahasiswa (nama, NIM, kehadiran, tugas, quis, UTS, UAS, NA) menggunakan struct di C++.
 
-## Cara Menjalankan
-
-1. Pastikan sudah terinstall compiler C/C++ (misal: gcc/g++, clang, atau MinGW).
-2. Buka terminal di folder ini.
-3. Compile program yang diinginkan, contoh:
-   - Untuk C: `gcc nama_file.cpp -o nama_program`
-   - Untuk C++: `g++ nama_file.cpp -o nama_program`
-4. Jalankan program:
-   - `./nama_program`
-
 ## Catatan
 - Program dibuat untuk tujuan pembelajaran dasar struktur data dan algoritma.
 - Setiap file berdiri sendiri dan dapat dijalankan terpisah.
